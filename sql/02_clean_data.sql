@@ -1,6 +1,5 @@
 -- ===============================================
--- OLIST DATA CLEANING AND PREPARATION
--- Phase 2: Clean data and create analysis-ready views
+-- DATA OVERLOOK AND DATA CLEANING
 -- ===============================================
 
 -- ===============================================
