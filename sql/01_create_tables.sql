@@ -1,5 +1,6 @@
--- 1. CREATING TABLES
-
+-- =====================================================================
+-- CREATING INITIAL TABLES AND LOADING DATA AS PER THE SCHEMA PLANNED  
+-- =====================================================================
 
 -- Drop existing tables if they exist (for clean setup)
 DROP TABLE IF EXISTS olist_order_payments CASCADE;
